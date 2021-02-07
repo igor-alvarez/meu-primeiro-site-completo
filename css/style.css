@@ -207,13 +207,12 @@ a:focus {
 }
 
 
-
 /*---------------------------------------
   MENU             
 -----------------------------------------*/
 
 .navbar {
-  background: var(--menu-bg);
+  background: var(--dark-color);
   z-index: 2;
   top: 0;
   right: 0;
